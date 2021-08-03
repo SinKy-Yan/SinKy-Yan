@@ -1,12 +1,12 @@
-### Hi there 👋
--
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-  ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
-  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+### Hi there 🙌
+
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   
 ```
 ┌───┐   ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┐
