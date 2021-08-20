@@ -1,17 +1,13 @@
 # HEY! this is 源源🙌
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![microPython](https://img.shields.io/badge/-microPython-FF69B4?style=for-the-badge&logo=MicroPython&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&&logo=Markdown&logoColor=white)
-
+![microPython](https://img.shields.io/badge/-microPython-FF69B4?style=for-the-badge&logo=MicroPython&logoColor=white)   
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&&logo=Vim&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&&logo=Vim&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&&logo=Anaconda&logoColor=white)
-
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&&logo=Anaconda&logoColor=white)   
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&&logo=windows&logoColor=white)
-
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&&logo=windows&logoColor=white)  
 ![Raspberry](https://img.shields.io/badge/-RaspberryPi-A22846?style=for-the-badge&&logo=RaspberryPi&logoColor=white)
 ![Espressif](https://img.shields.io/badge/-Espressif-E7352C?style=for-the-badge&&logo=Espressif&logoColor=white)
 
