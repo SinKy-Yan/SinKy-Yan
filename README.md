@@ -22,8 +22,11 @@
 ![Espressif](https://img.shields.io/badge/-Espressif-E7352C?style=for-the-badge&&logo=Espressif&logoColor=white)
 
 ## 统计
-![teng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SinKy-Yan&show_icons=true&theme=dracula&line_height=20&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinKy-Yan&theme=dracula&hide=HTML,Tex&layout=compact)
+<!--      &hide_border=true           -->
+<p align="left">
+<img height="190px" src="https://github-readme-stats.vercel.app/api?username=SinKy-Yan&show_icons=true&theme=dracula&line_height=20&count_private=true&include_all_commits=true" align = "center"/>
+<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinKy-Yan&theme=dracula&hide=HTML,Tex&layout=compact" align = "center"/>
+</p>
 
 ## 社交账号
 Twitter : [@SinKy_Yan](https://twitter.com/SinKy_Yan)
