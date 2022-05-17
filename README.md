@@ -1,5 +1,7 @@
 # HEY! this is 源源🙌
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SinKy-Yan&left_color=green&right_color=red)
+
 ## 技能树
 ### 语言
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
