@@ -1,6 +1,4 @@
-# HEY! this is 源源🙌
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SinKy-Yan&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SinKy-Yan)
 
 ## 技能树
 ### 语言
