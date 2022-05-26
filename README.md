@@ -1,3 +1,7 @@
+<img align=right src='https://github.githubassets.com/images/mona-whisper.gif' />
+
+求求给个Star吧~
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SinKy-Yan)
 
 ## 技能树
