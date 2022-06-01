@@ -35,8 +35,6 @@
 ## 社交账号
 Twitter : [@SinKy_Yan](https://twitter.com/SinKy_Yan)
 
-QQ : [1340793687](https://qm.qq.com/cgi-bin/qm/qr?k=irfmZJRAEezgVDK_LLQ32au8sxe0IUHC&noverify=0)
-
 ```
 ┌───┐   ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┐
 │Esc│   │ F1│ F2│ F3│ F4│ │ F5│ F6│ F7│ F8│ │ F9│F10│F11│F12│ │P/S│S L│P/B│  ┌┐    ┌┐    ┌┐            
